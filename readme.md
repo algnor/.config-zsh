@@ -7,5 +7,5 @@ git clone git@github.com:algnor/.zsh.git --recurse-submodules
 ln .zsh/.zshrc ~/.zshrc
 
 #switch to zsh
-run chsh -s /bin/zsh
+chsh -s /bin/zsh
 ```
